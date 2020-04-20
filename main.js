@@ -3,7 +3,7 @@ function getHello() {
 }
 
 function main() {
-  console.log("Hello");
+  console.log(getHello());
 }
 
 main();
