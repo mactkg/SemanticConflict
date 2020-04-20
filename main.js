@@ -1,4 +1,4 @@
-function getHello() {
+function getGreeting() {
   return "Hello!";
 }
 
